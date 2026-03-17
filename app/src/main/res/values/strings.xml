@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">FirstAndroidApp</string>
+    <string name="button_text">Convert</string>
+    <string name="label3">Convert between:</string>
+    <string name="label1">Convert from:</string>
+    <string name="label2">To:</string>
+    <string name="output_filler">Output</string>
+    <string name="input_placeholder">Enter number to convert</string>
+    <string-array name="categories">
+        <item>Currency</item>
+        <item>Fuel efficiency</item>
+        <item>Volume</item>
+        <item>Distance</item>
+        <item>Temperature</item>
+    </string-array>
+    <string-array name="all_types">
+        <item>USD</item>
+        <item>AUD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+        <item>GBP</item>
+        <item>Miles per Gallon</item>
+        <item>Kilometres per Litre</item>
+        <item>Gallons (US)</item>
+        <item>Litres</item>
+        <item>Nautical Miles</item>
+        <item>Kilometres</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="currencies">
+        <item>USD</item>
+        <item>AUD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+        <item>GBP</item>
+    </string-array>
+    <string-array name="fuel_eco">
+        <item>Miles per Gallon</item>
+        <item>Kilometres per Litre</item>
+    </string-array>
+    <string-array name= "volume">
+        <item>Gallons (US)</item>
+        <item>Litres</item>
+    </string-array>
+    <string-array name="distance">
+        <item>Nautical Miles</item>
+        <item>Kilometres</item>
+    </string-array>
+    <string-array name="temperature">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
